@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Gourav Roy.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Gourav+Roy+C.;AI+/+Full-Stack+Software+Engineer+%7C+;%7C+Green-Tech+Enthusiast;Let's+build+something+cool!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Gourav+Roy+C.;+AI-FullStack+Engineer+%7C+;+Green-Tech+Enthusiast;Let's+build+something+cool!+🚀" alt="Typing SVG" />
 </p>
 
 🚀 A passionate Software Engineer from Berlin who enjoys building beautiful, scalable, and performant applications.
