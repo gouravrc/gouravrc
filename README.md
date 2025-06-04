@@ -1,6 +1,6 @@
-# 👋 Hello there, I'm Gourav Roy C.
+# 👋 Hello there, I'm Gourav Roy.
 
-🚀 A passionate Full-Stack Engineer from Berlin who enjoys building beautiful, scalable, and performant web & mobile applications.
+🚀 A passionate Software Engineer from Berlin who enjoys building beautiful, scalable, and performant applications.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gouravrc&style=flat-square)
 
@@ -10,10 +10,18 @@
 
 ```js
 const gourav = {
-  code: ['JavaScript', 'TypeScript', 'Python', 'Java'],
-  tools: ['React', 'React Native', 'Node.js', 'Express', 'Next.js', 'GraphQL'],
-  mobile: ['React Native', 'Android (Java/Kotlin)'],
-  devOps: ['Docker', 'GitHub Actions', 'CI/CD'],
-  currentlyLearning: ['Rust', 'AI integrations', 'System Design'],
-  funFact: 'I love making tech analogies with food 🍜'
+  technologies: ['artificial_intelligence','frontend', 'backend'],
+  languages: ['python', 'java', 'javascript', 'typescript'],
+  devOps: ['Docker', 'Kuberenets', 'GitHub Actions', 'Jenkins'],
+  currentlyLearning: ['deep_learning', 'reinforcement_learning'],
+  currentlyWorking: ['NLP Powered AI Automation fullstack application'],
 }
+```
+
+### 🌟 Star Project
+
+
+<img width=400 height=200 alt="" src="https://i.ibb.co/nPtZvSv/Screenshot-2024-06-01-at-1-11-36-PM.png" />
+
+<p align="center"> <a href="https://github.com/gouravrc/solaris-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouravrc&repo=solaris-app&theme=radical" alt="react-native-stack-view" /> </a> </p>
+
