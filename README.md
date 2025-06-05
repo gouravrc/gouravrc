@@ -22,14 +22,14 @@ const gourav = {
 }
 ```
 
-## 🌟 Star Project - SOLARIS
+## 🌟 Star Project - SOLARIS (UnisysHackHive Hackathon event)
 
 <img width=400 height=200 alt="" src="https://i.ibb.co/nPtZvSv/Screenshot-2024-06-01-at-1-11-36-PM.png" />
 <a href="https://www.youtube.com/watch?v=iTWEixN87CE">Click here to watch demo</a>
 
 ### Overview 
 
-Solaris is an AI-powered banking evaluation tool designed to:
+As a part of UnisysHackHive Hackathon event, I have deploped Solaris, which is an AI-powered banking evaluation tool designed to:
 
 🌞 Optimizing Solar Panel Placement: Predicts solar irradiance using machine learning to recommend the most efficient panel installation sites.
 
