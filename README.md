@@ -14,7 +14,7 @@
 
 ```js
 const gourav = {
-  technologies: ['artificial_intelligence', 'machine_learning', 'NLP', 'Langchain', 'frontend', 'backend'],
+  technologies: ['artificial_intelligence', 'machine_learning', 'NLP', 'langchain', 'frontend', 'backend'],
   languages: ['python', 'java', 'javascript', 'typescript'],
   devOps: ['Docker', 'Kuberenets', 'GitHub Actions', 'Jenkins'],
   currentlyLearning: ['deep_learning', 'reinforcement_learning'],
@@ -48,7 +48,7 @@ Backend: Java 17 + Spring Boot
 
 Cloud Services: Google Cloud Platform, Firebase, Firestore
 
-## 📬 Connect with Me
+## 📬 Connect Me on
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gouravrc/)
 
