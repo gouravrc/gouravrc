@@ -65,7 +65,7 @@ Backend: Java 17 + Spring Boot
 Cloud Services: Google Cloud Platform, Firebase, Firestore
 
 ### 🛠️ GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravrc&theme=dark&hide_border=false)
 
