@@ -67,7 +67,7 @@ Cloud Services: Google Cloud Platform, Firebase, Firestore
 ### 🛠️ GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gouravrc&theme=radical&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gouravrc&theme=radical" alt="GitHub Streak" /></a>
 ## 📬 Connect Me on
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gouravrc/)
