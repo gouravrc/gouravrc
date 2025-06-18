@@ -41,7 +41,9 @@ const gourav = {
 ## 🌟 Star Project - SOLARIS (UnisysHackHive Hackathon event)
 
 <img width=400 height=200 alt="" src="https://i.ibb.co/nPtZvSv/Screenshot-2024-06-01-at-1-11-36-PM.png" />
-<a href="https://www.youtube.com/watch?v=iTWEixN87CE">Click here to watch demo</a>
+▶️ <a href="https://www.youtube.com/watch?v=iTWEixN87CE">Click here to watch demo</a>
+
+🔖 <a href="https://github.com/gouravrc/solaris-app">Project Repo</a>
 
 ### Overview 
 
