@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Gourav+Roy+C.;+AI-FullStack+Engineer+%7C+;+Green-Tech+Enthusiast;Let's+build+something+cool!+🚀" alt="Typing SVG" />
 </p>
 
-🚀 A passionate Software Engineer from Berlin who enjoys building beautiful, scalable, and performant applications.
+🚀 A passionate Software Engineer who enjoys building beautiful, scalable, and performant applications.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gouravrc&style=flat-square)
 
