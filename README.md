@@ -70,7 +70,7 @@ Cloud Services: Google Cloud Platform, Firebase, Firestore
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <br>
 
-## 📬 Connect Me on
+## 📬 Connect Me on LinkedIn
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gouravrc/)
 
