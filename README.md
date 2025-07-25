@@ -18,7 +18,7 @@ const gourav = {
   languages: ['python', 'java', 'javascript', 'typescript'],
   devOps: ['Docker', 'Kuberenets', 'GitHub Actions', 'Jenkins'],
   currentlyLearning: ['deep_learning', 'reinforcement_learning'],
-  currentlyWorking: ['NLP Powered AI Automation fullstack application'],
+  currentlyWorking: ['LLM Applications, Langsmith, Langchain, RAG Agents','NLP Powered AI Automation fullstack application'],
 }
 ```
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
